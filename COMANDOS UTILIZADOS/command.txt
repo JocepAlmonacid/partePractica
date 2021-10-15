@@ -1,0 +1,4 @@
+El comando cp ("copy") copia ficheros y directorios.
+Tras el nombre del comando se indicará el fichero a copiar y la ruta y nombre del nuevo fichero. No permite copiar un fichero sobre sí mismo, aunque sí permite sobrescribir un fichero existente.
+
+Si se indica el nombre de dos ficheros, el comando cp copia el primero al segundo. Si se añade la opción -t o si el último argumento indicado es un directorio, cp copia todos los ficheros indicados al directorio.
